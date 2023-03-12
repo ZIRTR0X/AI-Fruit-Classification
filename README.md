@@ -1,7 +1,7 @@
 # Classification-de-fruits
   
 ## Description :  
-A application school project done in second year (2A/Y2).    
+An application school project done in second year (2A/Y2).    
    
 Creation of an AI in python, which by giving it an image of a fruit, it will give us the name of this fruit.  
    
